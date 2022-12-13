@@ -1,0 +1,27 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+* {
+  font-family: 'Roboto';
+}
+.card {
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.inputs {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.button {
+  background-color: skyblue;
+  padding: 5px;
+  border-width: 0px;
+  border-radius: 2px;
+  margin-left: 10px;
+}
